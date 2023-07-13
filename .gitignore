@@ -102,13 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-.vscode
 .DS_Store
 __pycache__
 **/reporting
 
 pretrained_models
 docs/build
-.vscode
 spleeter-feedstock/
 *FAKE_MUSDB_DIR
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
